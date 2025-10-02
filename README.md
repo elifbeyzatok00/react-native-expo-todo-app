@@ -201,13 +201,3 @@ Sorularınız için:
 - Expo Forums'da sorun
 - Stack Overflow'da arayın
 
----
-
-<p align="center">
-  <strong>İyi kodlamalar! 💻🚀</strong>
-</p>
-
-<p align="center">
-  <sub>İlk React Native projeniz olarak harika bir başlangıç yaptınız! 🎉</sub>
-</p>
-
